@@ -1,1 +1,1 @@
-# Tripadvisor_Reviews
+This analysis aims to cluster customer reviews from TripAdvisor into meaningful themes based on the text content. By performing this clustering, we can identify customer sentiments (both positive and negative) and help businesses improve their services, tailor their offerings, and enhance customer experiences.
